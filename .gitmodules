@@ -1,0 +1,3 @@
+[submodule "teaching-typescript"]
+	path = teaching-typescript
+	url = git@github.com:NayThuKhant/teaching-typescript.git
